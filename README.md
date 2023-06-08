@@ -35,7 +35,7 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## Contact
 
-For any inquiries or questions about DeveloperNews, you can reach us at [email protected]
+For any inquiries or questions about DeveloperNews, you can reach us at instagram.
 
 ## License
 
